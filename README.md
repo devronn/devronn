@@ -1,5 +1,7 @@
 # Hello there 👋, I'm Dev Ronn
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=devronn alt=rahuldkjain/> </p>
+
 ### My favourite quotes
 - "We’re all stories, in the end. Just make it a good one, eh?"
 - "Do you know what thinking is? It’s just a fancy word for changing your mind."
